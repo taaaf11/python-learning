@@ -57,7 +57,7 @@ Explore advanced concepts and real-world applications:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/python-learning.git
+   git clone https://github.com/Craftzmen/python-learning.git
    cd python-learning
    ```
 
